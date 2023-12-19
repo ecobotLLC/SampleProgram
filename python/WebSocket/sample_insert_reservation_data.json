@@ -1,0 +1,96 @@
+{
+    "0_0":{
+        "service_id":{
+            "value":null,
+            "type":"INT(11)"
+        },
+        "vehicle_uid":{
+            "value":"dump_001",
+            "type" :"VARCHAR(100)"
+        },
+        "reservation_number":{
+            "value":1,
+            "type" :"INT(11)"
+        },
+        "route_name":{
+            "value":"Route1.tch",
+            "type" :"VARCHAR(100)"
+        },
+        "priority":{
+            "value":1,
+            "type" :"INT(11)"
+        },
+        "registrationtime":{
+            "value":"2023-12-01 12:00:00.900",
+            "type" :"DATETIME(3)"
+        },
+        "interval":{
+            "value":100.5,
+            "type":"FLOAT",
+            "option":"NOT NULL"
+        },
+        "timestamp1":{
+            "value":"2023-12-01 12:00:00.900",
+            "type" :"DATETIME(3)"
+        },
+        "timestamp2":{
+            "value":"2023-12-01 12:00:00.900",
+            "type" :"DATETIME(3)"
+        },
+        "timeout1":{
+            "value":"False",
+            "type":"BOOLEAN"
+        },
+        "timeout2":{
+            "value":"False",
+            "type":"BOOLEAN"
+        }
+    },
+    "0_1":{
+        "service_id":{
+            "value":null,
+            "type":"INT(11)"
+        },    
+        "vehicle_uid":{
+            "value":"dump_001",
+            "type" :"VARCHAR(100)"
+        },
+        "reservation_number":{
+            "value":1,
+            "type" :"INT(11)"
+        },
+        "route_name":{
+            "value":"Route1.tch",
+            "type" :"VARCHAR(100)"
+        },
+        "priority":{
+            "value":1,
+            "type" :"INT(11)"
+        },
+        "registrationtime":{
+            "value":"2023-12-01 12:00:00.900",
+            "type" :"DATETIME(3)"
+        },
+        "interval":{
+            "value":1.5,
+            "type":"FLOAT",
+            "option":"NOT NULL"
+        },
+        "timestamp1":{
+            "value":"2023-12-01 12:00:00.900",
+            "type" :"DATETIME(3)"
+        },
+        "timestamp2":{
+            "value":"2023-12-01 12:00:00.900",
+            "type" :"DATETIME(3)"
+        },
+        "timeout1":{
+            "value":"False",
+            "type":"BOOLEAN"
+        },
+        "timeout2":{
+            "value":"False",
+            "type":"BOOLEAN"
+        }
+    }
+}
